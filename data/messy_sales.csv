@@ -1,0 +1,14 @@
+sale_id,sale_date,customer_name,product,quantity,unit_price
+1,2026-01-01, Alice , Notebook ,2,12.50
+1,2026-01-01,Alice,Notebook,2,12.5
+2,2026-01-01,NA,Pen,3,1.20
+3,2026-01-02,null,Mouse,1,20.00
+4,2026-02-30,Bob,Keyboard,1,35.00
+5,2026-01-02,Carol, ,2,5.00
+6,2026-01-02,Dan,Pen,0,1.20
+7,2026-01-02,Eve,Book,1,-4.00
+8,2026-01-02,Fred,Book,1,2.345
+9,2026-01-03,Gina,Mug,1,10.00
+9,2026-01-03,Gina,Mug,2,10.00
+10,2026-01-03,   ,Sticker,5,0.10
+11,2026-01-03,Hal,Book,NA,8.00
